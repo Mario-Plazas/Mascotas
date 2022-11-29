@@ -1,7 +1,9 @@
 body{
     background-color: antiquewhite;
     font-size:18px;
+    padding: 50p;
+    color: blue;
 }
 img {
-    height: 100px;
+    height: 150px;
 }
